@@ -1,0 +1,295 @@
+SURESH SONWANE 
+
+@
+
+sonwanesuresh95@gmail.com
+
+        
+
+GitHub: 
+
+github.com/sonwanesuresh95
+
+         LinkedIN: 
+
+linkedin.com/in/suresh-sonwane-4ba712101/ 
+
+ 
+
+EDUCATION 
+
+Bachelor of Engineering in Electronics & 
+ 
+Telecommunication,
+University of Pune. 
+Aug’14 - May’19   Pune, India                                                                          
+Coursework
+Probability & Statistics, Algorithms and Data Structures, 
+Differential Equations. 
+
+: Machine Learning, Artificial Intelligence, 
+
+------------------------------------------------------------------------- 
+
+EXPERIENCE 
+
+✓ SIMPLIFAI.AI, Data Science Intern 
+
+Jul’19 - Aug’20  -  Pune, India. 
+
+• 
+Automated email classification using 
+​
+
+EmailBot - Automated Email classification System 
+• 
+​
+NLP, Python, Tensorflow 
+deep learning project for Norwegian insurance firm. 
+•
+ Built Flask APIs for training machine learning models for text 
+​
+classification and storing trained models, data, keywords in 
+the codebase, wrote .yaml files. 
+models for email classification and categorization in 
+•
+norwegian language. 
+Worked on optimization - wrote highly 
+ 
+​
+​
+optimized python code by redesigning the algorithm, reduced 
+•
+inference timings from 15 min+ to 7 sec on api calls 
+Built 
+ 
+​
+​
+batch pipelines for training and saving ml models for text 
+classification purposes.  
+
+• 
+Trained deep learning 
+​
+
+Fretex - PDF Data Mining Project 
+• 
+​
+•
+ Worked on Fretex - A pdf data mining 
+NLP, Python, PyPDF2 
+​
+project for a Norwegian firm. Built a Rule based model for data 
+mining from digital pdf Invoices/receipts using regex rule, 
+multiple keyword matching, special keywords matching. 
+
+✓ SKNCOE, Teaching Assistant, ML, AI 
+
+Dec’19 - Mar’20  -  Pune, India.  
+
+• 
+Worked along with PhD Professor and assistant professor to 
+​
+teach machine learning foundations to final year students. 
+• 
+Demonstrated techniques in Machine Learning e.g. data 
+​
+preprocessing, preparation, feature engineering, model 
+training, model evaluation, inference in Jupyter Notebook. 
+
+✓ SKNCOE, Research Assistant, Machine Learning 
+
+Dec’18 - Mar’19  -  Pune, India.  
+
+•
+ Worked on a research project: Regression Benchmarking on 
+​
+real-world dataset using traditional learning algorithms. 
+•
+ Benchmarked evaluation metrics and training times of 
+​
+multiple traditional machine learning algorithms including 
+linear, non-linear, tree, ensemble, perceptron algorithms. 
+• 
+Created Project Report on the same. 
+​
+
+------------------------------------------------------------------------- 
+  
+TECHNICAL SKILLS 
+
+• 
+Strongest Areas
+​
+Data Structures, Algorithms, Software Design. 
+
+: NLP, Machine Learning, Deep Learning, 
+ 
+
+: Python3 
+
+: C, C++, SQL, HTML. 
+
+: JupyterNB, Pycharm, linux shell, Visual 
+
+: Sklearn, Tensorflow, Keras, Numpy, Pandas, 
+
+• 
+Languages (experienced in)
+​
+• 
+Languages (familiar with)
+​
+• 
+Tools & IDEs
+Studio Code, Spark/EMR script, AWS notebook. 
+• 
+ML Libraries
+​
+• 
+matplotlib, Nvidia CUDA, OpenCV, scikit-learn, NLTK, 
+spaCy, TextBlob, Gensim, Stanford CoreNLP. 
+• 
+(Pyspark). 
+• 
+Deployment & Serving: 
+​
+•
+Amazon Web Services(AWS): 
+ 
+​
+​
+------------------------------------------------------------------------- 
+KEY PROJECTS 
+
+Flask, Docker, Heroku, AWS EC2. 
+AWS EC2, AWS EMR. 
+
+Hadoop MapReduce, Apache Spark 
+
+Data Science: 
+
+• 
+Worked on 
+​
+
+Information Retrieval System 
+NLP, Word2Vec, Gensim Aug’20 - Sept’20 Pune  
+building a NLP preprocessing pipeline+Word2Vec 
+vectorization  pipeline to find top 5 (in ~20) wikipedia 
+passages semantically similar to a given search query 
+• 
+Used cosine similarity to calculate similarity between search 
+​
+query vector and passage vector. 
+Contextual Question Answering System 
+• 
+Built a closed - 
+NLP, Deeppavlov, Python Jul’20 - Aug’20 Pune 
+​
+domain contextual question answering system web 
+application based on Deep pavlov, python and flask 
+TF-IDF for information retrieval and R-NET for reading 
+comprehension. 
+Image Classification, Deep Learning 
+Computer Vision, Tensorflow, Python Feb’20 - Mar’20 Pune 
+• 
+Designed and implemented a Multilayer Convolutional 
+​
+Neural Network in tensorflow, trained on CIFAR10 image 
+classification dataset. Benchmarked with pretrained model 
+on CIFAR10, using transfer learning to classify images.  
+Logging Visualization Tool, Application logs. 
+• 
+Built a 
+NLP, Matplotlib, Python, Flask Sep’19 - Oct’19 Pune 
+​
+framework that generates statistical data visualization 
+based on application exceptions, using a regex based rule 
+engine, by which the logs are categorized. 
+
+• 
+Uses 
+​
+
+Sentiment Classification on imdb, pre-trained word2vec 
+Trained 
+• 
+NLP, Python, Word2vec, Gensim Mar’20 - Apr’20 Pune  
+​
+multiple deep learning models using keras embedding layer 
+and pretrained word2vec model. 
+Benchmarked performance metrics and training times on 
+• 
+​
+each training method. 
+
+------------------------------------------------------------------------- 
+
+• 
+                                          
+Apache Spark(udacity), Andrew Ng (Stanford) 
+
+ACHIEVEMENTS 
+• 
+5 Star Python Programmer, HackerRank.            
+​
+Courses/certificates: 
+Machine Learning course(coursera), Microsoft Edx Intro to Data 
+Science(Edx), Deep Learning by Francis Chollet(Google) 
+• 
+Research Paper Implementations, Tensorflow, Keras, python: 
+​
+VGG, AlexNet and counting…(started 
+• 
+Teaching and Research Assistant 
+​
+Top 15% in a Kaggle Competition 
+• 
+​
+) 
+kaggle.com/sonwanesuresh95
+(
+
+at my undergrad college, 2019-20 
+
+Apr’20) 
+
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
